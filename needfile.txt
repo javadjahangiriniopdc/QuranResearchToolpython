@@ -1,3 +1,3 @@
-Quran Research Tool python
+Quran Research Tools python
 ------------------------------
 https://tanzil.net/#19:1
